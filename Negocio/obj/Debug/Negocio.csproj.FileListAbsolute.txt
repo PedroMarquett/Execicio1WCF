@@ -1,0 +1,11 @@
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\bin\Debug\Negocio.dll
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\bin\Debug\Negocio.pdb
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\bin\Debug\AcessoDados.dll
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\bin\Debug\Entidade.dll
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\bin\Debug\AcessoDados.pdb
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\bin\Debug\Entidade.pdb
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\obj\Debug\Negocio.dll
+C:\Users\brasi\source\repos\ProjEmpresa\Negocio\obj\Debug\Negocio.pdb

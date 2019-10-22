@@ -1,0 +1,9 @@
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\bin\Debug\Entidade.dll
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\bin\Debug\Entidade.pdb
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\obj\Debug\AcessoDados.csprojAssemblyReference.cache
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\obj\Debug\AcessoDados.csproj.CopyComplete
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\brasi\source\repos\ProjEmpresa\AcessoDados\obj\Debug\AcessoDados.pdb

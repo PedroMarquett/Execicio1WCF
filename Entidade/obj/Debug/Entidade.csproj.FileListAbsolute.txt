@@ -1,0 +1,6 @@
+C:\Users\brasi\source\repos\ProjEmpresa\Entidade\bin\Debug\Entidade.dll
+C:\Users\brasi\source\repos\ProjEmpresa\Entidade\bin\Debug\Entidade.pdb
+C:\Users\brasi\source\repos\ProjEmpresa\Entidade\obj\Debug\Entidade.csprojAssemblyReference.cache
+C:\Users\brasi\source\repos\ProjEmpresa\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\brasi\source\repos\ProjEmpresa\Entidade\obj\Debug\Entidade.dll
+C:\Users\brasi\source\repos\ProjEmpresa\Entidade\obj\Debug\Entidade.pdb
